@@ -992,7 +992,7 @@ html {
   }
   .content-2.col-2 .thumbnail > img {
     width: 100%;
-    max-width: 300px;
+    max-width: 256px;
   }
   .content-2.col-2 .thumbnail h3 {
     margin-top: -14px;
@@ -1087,7 +1087,7 @@ html {
 @media (max-width: 767px) {
   .content-2 .thumbnail > img {
     width: 100%;
-    max-width: 300px;
+    max-width: 256px;
   }
 }
 .content-2 .thumbnail h3 {
